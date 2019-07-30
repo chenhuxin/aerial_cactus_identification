@@ -4,7 +4,7 @@
  [The dataset can be download here](https://www.kaggle.com/c/aerial-cactus-identification).
 ## Requirements
  python 3.6 <br>
- tensorflow 1.4.1 <br>
+ tensorflow 1.4.0 <br>
  numpy 1.15.0 <br>
  matplotlib 2.0.0 <br>
 ## Training and Evaluation
